@@ -1,4 +1,4 @@
 x64/
-WebSocketServer.user
-WebSocketServer.filters
-WebSocketServer.vcxproj
+websocket_in_cpp.user
+websocket_in_cpp.filters
+websocket_in_cpp.vcxproj
